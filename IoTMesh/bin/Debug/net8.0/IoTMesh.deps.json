@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IoTMesh/1.0.0": {
+        "runtime": {
+          "IoTMesh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IoTMesh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
