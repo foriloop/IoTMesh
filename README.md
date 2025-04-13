@@ -3,7 +3,7 @@ IoTMesh AI project
 
 Introduction
 
-This document outlines the steps to create an AI agent web application for IoT insights, leveraging pre-trained AI models available through GitHub APIs. The application will simulate IoT data, integrate AI for predictive insights and anomaly detection, and display actionable data in real time using ASP.NET and Razor Pages.
+This document outlines the steps to create an AI agent web application for IoT insights, leveraging pre-trained AI models available through GitHub APIs. The application will simulate IoT data, integrate AI for predictive insights and anomaly detection, and display actionable data in real time using ASP.NET and Razor Pages. This is for the 2025 Microsoft AI Skills Fest Hackathon.
 
 ---
 
