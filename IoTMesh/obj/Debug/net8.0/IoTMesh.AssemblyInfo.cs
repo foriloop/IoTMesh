@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoTMesh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+878e5e0e6f49161f8ecd0e7708a0280873936378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85885f593fbafdd746f9b3c5658e844a35c9c4e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoTMesh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoTMesh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
